@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="menus_are_of_3_types">
+        Menus are of 3 types\n
+        1. Optional Menu\n
+        2. Popup Menu\n
+        3. Contextual Menu\n
+            longpress to see context menu
+    </string>
+    <string name="context">Context</string>
+    <string name="popup_menu">PopUp Menu</string>
+</resources>
